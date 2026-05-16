@@ -1,9 +1,8 @@
 #
-![my image](https://i.pinimg.com/736x/65/c5/8e/65c58e834a8251c311f4c6ba383d04d0.jpg)
+![my image](https://i.pinimg.com/1200x/f0/e8/a8/f0e8a8f3ec81476d2ce5cd02a2438fdd.jpg)
 
-  [strawpage!](https://rekoami.straw.page/)
-  [atabook!](https://rekoami.atabook.org/)
+  [strawpage!](https://amireko.straw.page/)
+  [atabook!](https://rekoami.atabook.org//)
 
-![my image](https://i.pinimg.com/736x/62/48/c4/6248c46df169962767cb5357f87f5be5.jpg)
 
 ![](https://komarev.com/ghpvc/?username=PutridPulp)
